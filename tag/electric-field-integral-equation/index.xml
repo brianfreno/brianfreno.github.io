@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electric-field integral equation | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/electric-field-integral-equation/</link>
+      <atom:link href="https://brianfreno.github.io/tag/electric-field-integral-equation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Electric-field integral equation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Electric-field integral equation</title>
+      <link>https://brianfreno.github.io/tag/electric-field-integral-equation/</link>
+    </image>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/efie_quad/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/efie_quad/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Verification for Practically Singular Equations</title>
+      <link>https://brianfreno.github.io/publication/singular/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/singular/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/efie/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/efie/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

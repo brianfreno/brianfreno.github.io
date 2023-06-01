@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manufactured solutions | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/manufactured-solutions/</link>
+      <atom:link href="https://brianfreno.github.io/tag/manufactured-solutions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manufactured solutions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Manufactured solutions</title>
+      <link>https://brianfreno.github.io/tag/manufactured-solutions/</link>
+    </image>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Magnetic-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/mfie/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/mfie/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonintrusive Manufactured Solutions for Non-Decomposing Ablation in Two Dimensions</title>
+      <link>https://brianfreno.github.io/publication/ablation_2d/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/ablation_2d/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/efie_quad/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/efie_quad/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Verification for Practically Singular Equations</title>
+      <link>https://brianfreno.github.io/publication/singular/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/singular/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/efie/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/efie/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simulating hydraulic fracture propagation using dynamic mesh deformation </title>
+      <link>https://brianfreno.github.io/publication/patent/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/patent/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code-verification techniques for hypersonic reacting flows in thermochemical nonequilibrium</title>
+      <link>https://brianfreno.github.io/publication/hypersonic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/hypersonic/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonintrusive Manufactured Solutions for Ablation</title>
+      <link>https://brianfreno.github.io/publication/ablation_1d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/ablation_1d/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

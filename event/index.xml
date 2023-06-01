@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/event/</link>
+      <atom:link href="https://brianfreno.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://brianfreno.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Code Verification for the MFIE</title>
+      <link>https://brianfreno.github.io/talk/code-verification-for-the-mfie/</link>
+      <pubDate>Wed, 17 May 2023 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-for-the-mfie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

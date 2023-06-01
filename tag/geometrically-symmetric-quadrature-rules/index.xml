@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geometrically symmetric quadrature rules | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/geometrically-symmetric-quadrature-rules/</link>
+      <atom:link href="https://brianfreno.github.io/tag/geometrically-symmetric-quadrature-rules/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geometrically symmetric quadrature rules</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Geometrically symmetric quadrature rules</title>
+      <link>https://brianfreno.github.io/tag/geometrically-symmetric-quadrature-rules/</link>
+    </image>
+    
+    <item>
+      <title>Characterization and integration of the singular test integrals in the method-of-moments implementation of the electric-field integral equation</title>
+      <link>https://brianfreno.github.io/publication/em/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/em/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

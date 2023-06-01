@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/publication-type/2/</link>
+      <atom:link href="https://brianfreno.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://brianfreno.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Magnetic-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/mfie/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/mfie/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonintrusive Manufactured Solutions for Non-Decomposing Ablation in Two Dimensions</title>
+      <link>https://brianfreno.github.io/publication/ablation_2d/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/ablation_2d/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/efie_quad/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/efie_quad/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Verification for Practically Singular Equations</title>
+      <link>https://brianfreno.github.io/publication/singular/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/singular/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/efie/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/efie/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization and integration of the singular test integrals in the method-of-moments implementation of the electric-field integral equation</title>
+      <link>https://brianfreno.github.io/publication/em/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/em/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code-verification techniques for hypersonic reacting flows in thermochemical nonequilibrium</title>
+      <link>https://brianfreno.github.io/publication/hypersonic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/hypersonic/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonintrusive Manufactured Solutions for Ablation</title>
+      <link>https://brianfreno.github.io/publication/ablation_1d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/ablation_1d/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Symmetric triangle quadrature rules for arbitrary functions</title>
+      <link>https://brianfreno.github.io/publication/quad/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/quad/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine-learning error models for approximate solutions to parameterized systems of nonlinear equations</title>
+      <link>https://brianfreno.github.io/publication/rom_ml/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/rom_ml/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The use of dynamic basis functions in proper orthogonal decomposition</title>
+      <link>https://brianfreno.github.io/publication/dynamic_basis/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/dynamic_basis/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A proper orthogonal decomposition method for nonlinear flows with deforming meshes</title>
+      <link>https://brianfreno.github.io/publication/pod_nonlinear/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/pod_nonlinear/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using proper orthogonal decomposition to model off-reference flow conditions</title>
+      <link>https://brianfreno.github.io/publication/pod_off/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/pod_off/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An investigation into the significance of the non-linear terms in the equations of motion for a cantilevered beam</title>
+      <link>https://brianfreno.github.io/publication/beam_terms/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/beam_terms/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A computationally efficient non-linear beam model</title>
+      <link>https://brianfreno.github.io/publication/beam/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/beam/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

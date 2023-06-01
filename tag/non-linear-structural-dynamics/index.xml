@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-linear structural dynamics | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/non-linear-structural-dynamics/</link>
+      <atom:link href="https://brianfreno.github.io/tag/non-linear-structural-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Non-linear structural dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Non-linear structural dynamics</title>
+      <link>https://brianfreno.github.io/tag/non-linear-structural-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>An investigation into the significance of the non-linear terms in the equations of motion for a cantilevered beam</title>
+      <link>https://brianfreno.github.io/publication/beam_terms/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/beam_terms/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A computationally efficient non-linear beam model</title>
+      <link>https://brianfreno.github.io/publication/beam/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/beam/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
