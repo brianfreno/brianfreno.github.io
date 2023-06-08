@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Supervised machine learning | Brian A. Freno</title>
+    <title>supervised machine learning | Brian A. Freno</title>
     <link>https://brianfreno.github.io/tag/supervised-machine-learning/</link>
       <atom:link href="https://brianfreno.github.io/tag/supervised-machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Supervised machine learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <description>supervised machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
-      <title>Supervised machine learning</title>
+      <title>supervised machine learning</title>
       <link>https://brianfreno.github.io/tag/supervised-machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Machine-learning error models for approximate solutions to parameterized systems of nonlinear equations</title>
+      <link>https://brianfreno.github.io/talk/machine-learning-error-models-for-approximate-solutions-to-parameterized-systems-of-nonlinear-equations/</link>
+      <pubDate>Thu, 23 Jan 2020 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/machine-learning-error-models-for-approximate-solutions-to-parameterized-systems-of-nonlinear-equations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine-learning error models for approximate solutions to parameterized systems of nonlinear equations</title>

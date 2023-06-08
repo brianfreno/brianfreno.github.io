@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Magnetic-field integral equation | Brian A. Freno</title>
+    <title>magnetic-field integral equation | Brian A. Freno</title>
     <link>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</link>
       <atom:link href="https://brianfreno.github.io/tag/magnetic-field-integral-equation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Magnetic-field integral equation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <description>magnetic-field integral equation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
-      <title>Magnetic-field integral equation</title>
+      <title>magnetic-field integral equation</title>
       <link>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</link>
     </image>
+    
+    <item>
+      <title>Code Verification for the MFIE</title>
+      <link>https://brianfreno.github.io/talk/code-verification-for-the-mfie/</link>
+      <pubDate>Wed, 17 May 2023 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-for-the-mfie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Magnetic-Field Integral Equation</title>
       <link>https://brianfreno.github.io/publication/mfie/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://brianfreno.github.io/publication/mfie/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Code-verification techniques for hypersonic reacting flows in thermochemical nonequilibrium</title>
-      <link>https://brianfreno.github.io/publication/hypersonic/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://brianfreno.github.io/publication/hypersonic/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ablation | Brian A. Freno</title>
+    <title>ablation | Brian A. Freno</title>
     <link>https://brianfreno.github.io/tag/ablation/</link>
       <atom:link href="https://brianfreno.github.io/tag/ablation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ablation</description>
+    <description>ablation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
-      <title>Ablation</title>
+      <title>ablation</title>
       <link>https://brianfreno.github.io/tag/ablation/</link>
     </image>
     
@@ -22,12 +22,11 @@
     </item>
     
     <item>
-      <title>Simulating hydraulic fracture propagation using dynamic mesh deformation </title>
-      <link>https://brianfreno.github.io/publication/patent/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://brianfreno.github.io/publication/patent/</guid>
-      <description>&lt;hr&gt;
-</description>
+      <title>Nonintrusive Manufactured Solutions for Non-Decomposing Ablation in Two Dimensions</title>
+      <link>https://brianfreno.github.io/talk/nonintrusive-manufactured-solutions-for-non-decomposing-ablation-in-two-dimensions/</link>
+      <pubDate>Wed, 25 May 2022 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/nonintrusive-manufactured-solutions-for-non-decomposing-ablation-in-two-dimensions/</guid>
+      <description></description>
     </item>
     
     <item>

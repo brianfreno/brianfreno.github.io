@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Singular integrals | Brian A. Freno</title>
+    <title>singular integrals | Brian A. Freno</title>
     <link>https://brianfreno.github.io/tag/singular-integrals/</link>
       <atom:link href="https://brianfreno.github.io/tag/singular-integrals/index.xml" rel="self" type="application/rss+xml" />
-    <description>Singular integrals</description>
+    <description>singular integrals</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
-      <title>Singular integrals</title>
+      <title>singular integrals</title>
       <link>https://brianfreno.github.io/tag/singular-integrals/</link>
     </image>
     

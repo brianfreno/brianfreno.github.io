@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aeroelasticity | Brian A. Freno</title>
+    <title>aeroelasticity | Brian A. Freno</title>
     <link>https://brianfreno.github.io/tag/aeroelasticity/</link>
       <atom:link href="https://brianfreno.github.io/tag/aeroelasticity/index.xml" rel="self" type="application/rss+xml" />
-    <description>Aeroelasticity</description>
+    <description>aeroelasticity</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
-      <title>Aeroelasticity</title>
+      <title>aeroelasticity</title>
       <link>https://brianfreno.github.io/tag/aeroelasticity/</link>
     </image>
     

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Method of moments | Brian A. Freno</title>
+    <title>method of moments | Brian A. Freno</title>
     <link>https://brianfreno.github.io/tag/method-of-moments/</link>
       <atom:link href="https://brianfreno.github.io/tag/method-of-moments/index.xml" rel="self" type="application/rss+xml" />
-    <description>Method of moments</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <description>method of moments</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
-      <title>Method of moments</title>
+      <title>method of moments</title>
       <link>https://brianfreno.github.io/tag/method-of-moments/</link>
     </image>
+    
+    <item>
+      <title>Code Verification for the EFIE</title>
+      <link>https://brianfreno.github.io/talk/code-verification-for-the-efie/</link>
+      <pubDate>Tue, 12 Jul 2022 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-for-the-efie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>

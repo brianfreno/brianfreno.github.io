@@ -39,6 +39,22 @@
     </item>
     
     <item>
+      <title>Code Verification for the EFIE</title>
+      <link>https://brianfreno.github.io/talk/code-verification-for-the-efie/</link>
+      <pubDate>Tue, 12 Jul 2022 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-for-the-efie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonintrusive Manufactured Solutions for Non-Decomposing Ablation in Two Dimensions</title>
+      <link>https://brianfreno.github.io/talk/nonintrusive-manufactured-solutions-for-non-decomposing-ablation-in-two-dimensions/</link>
+      <pubDate>Wed, 25 May 2022 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/nonintrusive-manufactured-solutions-for-non-decomposing-ablation-in-two-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
       <link>https://brianfreno.github.io/publication/efie_quad/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
@@ -57,12 +73,28 @@
     </item>
     
     <item>
-      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
+      <title>Manufactured Solutions for the Method-of-Moments Implementation of the Electric-Field Integral Equation</title>
       <link>https://brianfreno.github.io/publication/efie/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://brianfreno.github.io/publication/efie/</guid>
       <description>&lt;hr&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Code-verification techniques for hypersonic reacting flows in thermochemical nonequilibrium</title>
+      <link>https://brianfreno.github.io/talk/code-verification-techniques-for-hypersonic-reacting-flows-in-thermochemical-nonequilibrium/</link>
+      <pubDate>Wed, 19 May 2021 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-techniques-for-hypersonic-reacting-flows-in-thermochemical-nonequilibrium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetric Triangle Quadrature Rules for Arbitrary Functions</title>
+      <link>https://brianfreno.github.io/talk/symmetric-triangle-quadrature-rules-for-arbitrary-functions/</link>
+      <pubDate>Mon, 01 Mar 2021 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/symmetric-triangle-quadrature-rules-for-arbitrary-functions/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -191,6 +223,14 @@
     </item>
     
     <item>
+      <title>Machine-learning error models for approximate solutions to parameterized systems of nonlinear equations</title>
+      <link>https://brianfreno.github.io/talk/machine-learning-error-models-for-approximate-solutions-to-parameterized-systems-of-nonlinear-equations/</link>
+      <pubDate>Thu, 23 Jan 2020 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/machine-learning-error-models-for-approximate-solutions-to-parameterized-systems-of-nonlinear-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Markdown</title>
       <link>https://brianfreno.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -294,7 +334,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-189723564&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-953862471&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -304,7 +344,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-189723564&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-953862471&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

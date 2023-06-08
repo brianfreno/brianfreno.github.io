@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesh deformation | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/mesh-deformation/</link>
+      <atom:link href="https://brianfreno.github.io/tag/mesh-deformation/index.xml" rel="self" type="application/rss+xml" />
+    <description>mesh deformation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/sharing.jpg</url>
+      <title>mesh deformation</title>
+      <link>https://brianfreno.github.io/tag/mesh-deformation/</link>
+    </image>
+    
+    <item>
+      <title>Simulating hydraulic fracture propagation using dynamic mesh deformation </title>
+      <link>https://brianfreno.github.io/publication/patent/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/patent/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

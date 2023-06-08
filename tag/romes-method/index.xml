@@ -5,12 +5,20 @@
     <link>https://brianfreno.github.io/tag/romes-method/</link>
       <atom:link href="https://brianfreno.github.io/tag/romes-method/index.xml" rel="self" type="application/rss+xml" />
     <description>ROMES method</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
       <title>ROMES method</title>
       <link>https://brianfreno.github.io/tag/romes-method/</link>
     </image>
+    
+    <item>
+      <title>Machine-learning error models for approximate solutions to parameterized systems of nonlinear equations</title>
+      <link>https://brianfreno.github.io/talk/machine-learning-error-models-for-approximate-solutions-to-parameterized-systems-of-nonlinear-equations/</link>
+      <pubDate>Thu, 23 Jan 2020 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/machine-learning-error-models-for-approximate-solutions-to-parameterized-systems-of-nonlinear-equations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine-learning error models for approximate solutions to parameterized systems of nonlinear equations</title>

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Triangle quadrature rules | Brian A. Freno</title>
+    <title>triangle quadrature rules | Brian A. Freno</title>
     <link>https://brianfreno.github.io/tag/triangle-quadrature-rules/</link>
       <atom:link href="https://brianfreno.github.io/tag/triangle-quadrature-rules/index.xml" rel="self" type="application/rss+xml" />
-    <description>Triangle quadrature rules</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <description>triangle quadrature rules</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
-      <title>Triangle quadrature rules</title>
+      <title>triangle quadrature rules</title>
       <link>https://brianfreno.github.io/tag/triangle-quadrature-rules/</link>
     </image>
+    
+    <item>
+      <title>Symmetric Triangle Quadrature Rules for Arbitrary Functions</title>
+      <link>https://brianfreno.github.io/talk/symmetric-triangle-quadrature-rules-for-arbitrary-functions/</link>
+      <pubDate>Mon, 01 Mar 2021 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/symmetric-triangle-quadrature-rules-for-arbitrary-functions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Symmetric triangle quadrature rules for arbitrary functions</title>

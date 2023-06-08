@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://brianfreno.github.io/tag/code-verification/</loc>
+    <lastmod>2023-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://brianfreno.github.io/talk/code-verification-for-the-mfie/</loc>
+    <lastmod>2023-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</loc>
+    <lastmod>2023-05-17T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
     <lastmod>2023-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -10,11 +22,11 @@
     <lastmod>2023-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/publication-type/2/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>https://brianfreno.github.io/tags/</loc>
+    <lastmod>2023-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/code-verification/</loc>
+    <loc>https://brianfreno.github.io/publication-type/2/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,19 +38,7 @@
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brianfreno.github.io/publication_types/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tags/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,15 +54,23 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/publication/efie_quad/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <loc>https://brianfreno.github.io/talk/code-verification-for-the-efie/</loc>
+    <lastmod>2022-07-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/electric-field-integral-equation/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/method-of-moments/</loc>
+    <lastmod>2022-07-12T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/nonintrusive-manufactured-solutions-for-non-decomposing-ablation-in-two-dimensions/</loc>
+    <lastmod>2022-05-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/publication/efie_quad/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -78,6 +86,38 @@
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-hypersonic-reacting-flows-in-thermochemical-nonequilibrium/</loc>
+    <lastmod>2021-05-19T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/hypersonic-flow/</loc>
+    <lastmod>2021-05-19T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/thermochemical-nonequilibrium/</loc>
+    <lastmod>2021-05-19T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/arbitrary-functions/</loc>
+    <lastmod>2021-03-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/quadrature-rules-for-singularities/</loc>
+    <lastmod>2021-03-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/symmetric-quadrature-rules/</loc>
+    <lastmod>2021-03-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/symmetric-triangle-quadrature-rules-for-arbitrary-functions/</loc>
+    <lastmod>2021-03-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/triangle-quadrature-rules/</loc>
+    <lastmod>2021-03-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://brianfreno.github.io/publication-type/8/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -87,6 +127,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/geometrically-symmetric-quadrature-rules/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/hydraulic-fracturing/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/mesh-deformation/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -134,51 +182,39 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/arbitrary-functions/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/quadrature-rules-for-singularities/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/symmetric-quadrature-rules/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brianfreno.github.io/publication/quad/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/triangle-quadrature-rules/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://brianfreno.github.io/tag/high-dimensional-regression/</loc>
+    <lastmod>2020-01-23T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/machine-learning-error-models-for-approximate-solutions-to-parameterized-systems-of-nonlinear-equations/</loc>
+    <lastmod>2020-01-23T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/model-reduction/</loc>
+    <lastmod>2020-01-23T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/parameterized-nonlinear-equations/</loc>
+    <lastmod>2020-01-23T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/romes-method/</loc>
+    <lastmod>2020-01-23T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/supervised-machine-learning/</loc>
+    <lastmod>2020-01-23T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/high-dimensional-regression/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brianfreno.github.io/publication/rom_ml/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/model-reduction/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/parameterized-nonlinear-equations/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/romes-method/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/supervised-machine-learning/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

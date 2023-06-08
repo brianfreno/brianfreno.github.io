@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hypersonic flow | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/hypersonic-flow/</link>
+      <atom:link href="https://brianfreno.github.io/tag/hypersonic-flow/index.xml" rel="self" type="application/rss+xml" />
+    <description>hypersonic flow</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/sharing.jpg</url>
+      <title>hypersonic flow</title>
+      <link>https://brianfreno.github.io/tag/hypersonic-flow/</link>
+    </image>
+    
+    <item>
+      <title>Code-verification techniques for hypersonic reacting flows in thermochemical nonequilibrium</title>
+      <link>https://brianfreno.github.io/talk/code-verification-techniques-for-hypersonic-reacting-flows-in-thermochemical-nonequilibrium/</link>
+      <pubDate>Wed, 19 May 2021 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-techniques-for-hypersonic-reacting-flows-in-thermochemical-nonequilibrium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code-verification techniques for hypersonic reacting flows in thermochemical nonequilibrium</title>
+      <link>https://brianfreno.github.io/publication/hypersonic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/hypersonic/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
