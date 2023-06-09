@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Code-Verification Techniques for the Method-of-Moments Implementation of the Combined-Field Integral Equation</title>
+      <link>https://brianfreno.github.io/publication/cfie/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/cfie/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Code Verification for the MFIE</title>
       <link>https://brianfreno.github.io/talk/code-verification-for-the-mfie/</link>
       <pubDate>Wed, 17 May 2023 13:00:00 +0000</pubDate>
@@ -25,6 +34,15 @@
       <link>https://brianfreno.github.io/publication/mfie/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://brianfreno.github.io/publication/mfie/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Verification for Practically Singular Equations</title>
+      <link>https://brianfreno.github.io/publication/singular/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/singular/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
@@ -59,15 +77,6 @@
       <link>https://brianfreno.github.io/publication/efie_quad/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://brianfreno.github.io/publication/efie_quad/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Code Verification for Practically Singular Equations</title>
-      <link>https://brianfreno.github.io/publication/singular/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://brianfreno.github.io/publication/singular/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
@@ -334,7 +343,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-953862471&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-185492637&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -344,7 +353,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-953862471&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-185492637&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
