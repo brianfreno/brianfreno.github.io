@@ -5,12 +5,20 @@
     <link>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</link>
       <atom:link href="https://brianfreno.github.io/tag/magnetic-field-integral-equation/index.xml" rel="self" type="application/rss+xml" />
     <description>magnetic-field integral equation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
       <title>magnetic-field integral equation</title>
       <link>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</link>
     </image>
+    
+    <item>
+      <title>Code-Verification Techniques for Electromagnetic Surface Integral Equation</title>
+      <link>https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equation/</link>
+      <pubDate>Mon, 03 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Code Verification for the MFIE</title>

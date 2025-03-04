@@ -3,35 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://brianfreno.github.io/tag/code-verification/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
+    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/electric-field-integral-equation/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
+    <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equation/</loc>
+    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/electromagnetic-penetration/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
+    <loc>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</loc>
+    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/method-of-moments/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
+    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/event/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
+    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tags/</loc>
-    <lastmod>2024-09-01T13:00:00+00:00</lastmod>
+    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/electric-field-integral-equation/</loc>
+    <lastmod>2024-09-24T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/electromagnetic-penetration/</loc>
+    <lastmod>2024-09-24T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/method-of-moments/</loc>
+    <lastmod>2024-09-24T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</loc>
+    <lastmod>2024-09-24T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/publication-type/2/</loc>
@@ -63,10 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/talk/code-verification-for-the-mfie/</loc>
-    <lastmod>2023-05-17T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</loc>
     <lastmod>2023-05-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

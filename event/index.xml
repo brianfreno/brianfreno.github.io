@@ -5,7 +5,7 @@
     <link>https://brianfreno.github.io/event/</link>
       <atom:link href="https://brianfreno.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Code-Verification Techniques for Electromagnetic Surface Integral Equation</title>
+      <link>https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equation/</link>
+      <pubDate>Mon, 03 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Some Contributions to Computational Physics</title>
       <link>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</link>
-      <pubDate>Sun, 01 Sep 2024 13:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
       <guid>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</guid>
       <description></description>
     </item>
