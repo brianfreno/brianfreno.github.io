@@ -2,8 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://brianfreno.github.io/talk/a-code-verification-plan-for-collisional-plasma-dynamics/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://brianfreno.github.io/tag/code-verification/</loc>
-    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/collisional-plasma-dynamics/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/electric-field-integral-equation/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/electromagnetic-penetration/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/electromagnetic-slot-models/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/particle-in-cell/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/event/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tags/</loc>
+    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equation/</loc>
@@ -12,26 +52,6 @@
   </url><url>
     <loc>https://brianfreno.github.io/tag/magnetic-field-integral-equation/</loc>
     <lastmod>2025-03-03T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
-    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/event/</loc>
-    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tags/</loc>
-    <lastmod>2025-03-03T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/electric-field-integral-equation/</loc>
-    <lastmod>2024-09-24T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/electromagnetic-penetration/</loc>
-    <lastmod>2024-09-24T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/method-of-moments/</loc>

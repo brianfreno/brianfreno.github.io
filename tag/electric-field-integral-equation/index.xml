@@ -5,12 +5,20 @@
     <link>https://brianfreno.github.io/tag/electric-field-integral-equation/</link>
       <atom:link href="https://brianfreno.github.io/tag/electric-field-integral-equation/index.xml" rel="self" type="application/rss+xml" />
     <description>electric-field integral equation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Apr 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
       <title>electric-field integral equation</title>
       <link>https://brianfreno.github.io/tag/electric-field-integral-equation/</link>
     </image>
+    
+    <item>
+      <title>Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model</title>
+      <link>https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/</link>
+      <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Some Contributions to Computational Physics</title>

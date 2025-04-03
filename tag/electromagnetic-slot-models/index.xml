@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electromagnetic slot models | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/electromagnetic-slot-models/</link>
+      <atom:link href="https://brianfreno.github.io/tag/electromagnetic-slot-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>electromagnetic slot models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Apr 2025 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/sharing.jpg</url>
+      <title>electromagnetic slot models</title>
+      <link>https://brianfreno.github.io/tag/electromagnetic-slot-models/</link>
+    </image>
+    
+    <item>
+      <title>Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model</title>
+      <link>https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/</link>
+      <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
