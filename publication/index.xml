@@ -5,12 +5,21 @@
     <link>https://brianfreno.github.io/publication/</link>
       <atom:link href="https://brianfreno.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal Articles and Patent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
       <title>Journal Articles and Patent</title>
       <link>https://brianfreno.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model</title>
+      <link>https://brianfreno.github.io/publication/deep_slot/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/deep_slot/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Manufactured Solutions for an Electromagnetic Slot Model</title>

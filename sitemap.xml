@@ -3,47 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://brianfreno.github.io/talk/a-code-verification-plan-for-collisional-plasma-dynamics/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/code-verification/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/collisional-plasma-dynamics/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/electric-field-integral-equation/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/electromagnetic-penetration/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/electromagnetic-slot-models/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tag/particle-in-cell/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/event/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/tags/</loc>
-    <lastmod>2025-04-02T13:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/publication-type/2/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/publication/deep_slot/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/publication/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/publication_types/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equation/</loc>
@@ -62,19 +78,7 @@
     <lastmod>2024-09-24T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/publication-type/2/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/publication/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brianfreno.github.io/publication/efie_slot/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/publication_types/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
