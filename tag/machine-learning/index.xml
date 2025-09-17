@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/machine-learning/</link>
+      <atom:link href="https://brianfreno.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Sep 2025 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/sharing.jpg</url>
+      <title>machine learning</title>
+      <link>https://brianfreno.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Advances in Verification, Validation, and Uncertainty Quantification for Computational Mechanics</title>
+      <link>https://brianfreno.github.io/talk/advances-in-verification-validation-and-uncertainty-quantification-for-computational-mechanics/</link>
+      <pubDate>Wed, 17 Sep 2025 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/advances-in-verification-validation-and-uncertainty-quantification-for-computational-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Contributions to Computational Physics</title>
+      <link>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</link>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

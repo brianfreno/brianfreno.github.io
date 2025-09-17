@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational electromagnetics | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/computational-electromagnetics/</link>
+      <atom:link href="https://brianfreno.github.io/tag/computational-electromagnetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>computational electromagnetics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/sharing.jpg</url>
+      <title>computational electromagnetics</title>
+      <link>https://brianfreno.github.io/tag/computational-electromagnetics/</link>
+    </image>
+    
+    <item>
+      <title>Some Contributions to Computational Physics</title>
+      <link>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</link>
+      <pubDate>Tue, 24 Sep 2024 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/some-contributions-to-computational-physics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

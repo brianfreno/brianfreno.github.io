@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Advances in Verification, Validation, and Uncertainty Quantification for Computational Mechanics</title>
+      <link>https://brianfreno.github.io/talk/advances-in-verification-validation-and-uncertainty-quantification-for-computational-mechanics/</link>
+      <pubDate>Wed, 17 Sep 2025 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/advances-in-verification-validation-and-uncertainty-quantification-for-computational-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model</title>
       <link>https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/</link>
       <pubDate>Thu, 10 Jul 2025 13:00:00 +0000</pubDate>
@@ -393,7 +401,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-167528394&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-162735489&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -403,7 +411,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-167528394&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-162735489&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
