@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="The accurate modeling of electromagnetic penetration is an important topic in computational electromagnetics. Electromagnetic penetration occurs through intentional or inadvertent openings in an otherwise closed electromagnetic scatterer, which prevent the contents from being fully shielded from external fields. To efficiently model electromagnetic penetration, aperture or slot models can be used with surface integral equations to solve Maxwell&#39;s equations. A necessary step towards establishing the credibility of these models is to assess the correctness of the implementation of the underlying numerical methods through code verification. Surface integral equations and slot models yield multiple interacting sources of numerical error and other challenges, which render traditional code-verification approaches ineffective. In this paper, we provide approaches to separately measure the numerical errors arising from these different error sources for the method-of-moments implementation of the electric-field integral equation with a slot model. We demonstrate the effectiveness of these approaches for a variety of cases." />
+<meta name="description" content="Code verification is an important step towards establishing the credibility of the results of computational physics codes by assessing whether the underlying numerical methods have been correctly implemented. The discretization of differential, integral, or integro-differential equations necessarily incurs some truncation error, and thus the approximate solutions produced from the discretized equations will incur an associated discretization error. If the solution to the problem is known, a measure of the discretization error may be evaluated directly from the approximate solution. The code may be verified by examining the rate at which the error decreases as the discretization is refined, thereby verifying the observed order of accuracy of the discretization scheme is the expected order of accuracy. Electromagnetic surface integral equations yield many code-verification challenges due to the various sources of numerical error and their possible interactions. These error sources arise from the use of basis functions to approximate the solution, quadrature to numerically integrate, and planar elements to represent curved surfaces. In this work, we provide approaches to separately measure the numerical errors arising from these different error sources using manufactured solutions. We demonstrate the effectiveness of these approaches for cases with and without coding errors." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/" />
-<link rel="canonical" href="https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/" />
+<link rel="alternate" hreflang="en-us" href="https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/" />
+<link rel="canonical" href="https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/" />
 
 
 
@@ -311,20 +311,20 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/featured.png" />
+<meta property="twitter:image" content="https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/featured.png" />
 <meta property="og:site_name" content="Brian A. Freno" />
-<meta property="og:url" content="https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/" />
-<meta property="og:title" content="Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model | Brian A. Freno" />
-<meta property="og:description" content="The accurate modeling of electromagnetic penetration is an important topic in computational electromagnetics. Electromagnetic penetration occurs through intentional or inadvertent openings in an otherwise closed electromagnetic scatterer, which prevent the contents from being fully shielded from external fields. To efficiently model electromagnetic penetration, aperture or slot models can be used with surface integral equations to solve Maxwell&#39;s equations. A necessary step towards establishing the credibility of these models is to assess the correctness of the implementation of the underlying numerical methods through code verification. Surface integral equations and slot models yield multiple interacting sources of numerical error and other challenges, which render traditional code-verification approaches ineffective. In this paper, we provide approaches to separately measure the numerical errors arising from these different error sources for the method-of-moments implementation of the electric-field integral equation with a slot model. We demonstrate the effectiveness of these approaches for a variety of cases." /><meta property="og:image" content="https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/" />
+<meta property="og:title" content="Code-Verification Techniques for Electromagnetic Surface Integral Equations | Brian A. Freno" />
+<meta property="og:description" content="Code verification is an important step towards establishing the credibility of the results of computational physics codes by assessing whether the underlying numerical methods have been correctly implemented. The discretization of differential, integral, or integro-differential equations necessarily incurs some truncation error, and thus the approximate solutions produced from the discretized equations will incur an associated discretization error. If the solution to the problem is known, a measure of the discretization error may be evaluated directly from the approximate solution. The code may be verified by examining the rate at which the error decreases as the discretization is refined, thereby verifying the observed order of accuracy of the discretization scheme is the expected order of accuracy. Electromagnetic surface integral equations yield many code-verification challenges due to the various sources of numerical error and their possible interactions. These error sources arise from the use of basis functions to approximate the solution, quadrature to numerically integrate, and planar elements to represent curved surfaces. In this work, we provide approaches to separately measure the numerical errors arising from these different error sources using manufactured solutions. We demonstrate the effectiveness of these approaches for cases with and without coding errors." /><meta property="og:image" content="https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2025-07-13T13:00:00&#43;00:00"
+      content="2025-03-03T13:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2025-07-13T13:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-03-03T13:00:00&#43;00:00">
   
 
 
@@ -345,16 +345,16 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/"
+    "@id": "https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/"
   },
-  "name": "Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model",
+  "name": "Code-Verification Techniques for Electromagnetic Surface Integral Equations",
   
   
   "image": [
-    "https://brianfreno.github.io/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/featured.png"
+    "https://brianfreno.github.io/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/featured.png"
   ],
   
-  "startDate": "2025-07-13T13:00:00Z",
+  "startDate": "2025-03-03T13:00:00Z",
   
   
   "performer": {
@@ -362,7 +362,7 @@
     "name": "Brian A. Freno"
   },
   
-  "description": "The accurate modeling of electromagnetic penetration is an important topic in computational electromagnetics. Electromagnetic penetration occurs through intentional or inadvertent openings in an otherwise closed electromagnetic scatterer, which prevent the contents from being fully shielded from external fields. To efficiently model electromagnetic penetration, aperture or slot models can be used with surface integral equations to solve Maxwell's equations. A necessary step towards establishing the credibility of these models is to assess the correctness of the implementation of the underlying numerical methods through code verification. Surface integral equations and slot models yield multiple interacting sources of numerical error and other challenges, which render traditional code-verification approaches ineffective. In this paper, we provide approaches to separately measure the numerical errors arising from these different error sources for the method-of-moments implementation of the electric-field integral equation with a slot model. We demonstrate the effectiveness of these approaches for a variety of cases."
+  "description": "Code verification is an important step towards establishing the credibility of the results of computational physics codes by assessing whether the underlying numerical methods have been correctly implemented. The discretization of differential, integral, or integro-differential equations necessarily incurs some truncation error, and thus the approximate solutions produced from the discretized equations will incur an associated discretization error. If the solution to the problem is known, a measure of the discretization error may be evaluated directly from the approximate solution. The code may be verified by examining the rate at which the error decreases as the discretization is refined, thereby verifying the observed order of accuracy of the discretization scheme is the expected order of accuracy. Electromagnetic surface integral equations yield many code-verification challenges due to the various sources of numerical error and their possible interactions. These error sources arise from the use of basis functions to approximate the solution, quadrature to numerically integrate, and planar elements to represent curved surfaces. In this work, we provide approaches to separately measure the numerical errors arising from these different error sources using manufactured solutions. We demonstrate the effectiveness of these approaches for cases with and without coding errors."
 }
 </script>
 
@@ -382,7 +382,7 @@
 
 
   
-  <title>Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model | Brian A. Freno</title>
+  <title>Code-Verification Techniques for Electromagnetic Surface Integral Equations | Brian A. Freno</title>
 
   
   
@@ -402,7 +402,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="2b06b43d0abcbf89065712133b122e31" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="7dda9a6869abf76c743cb559bdbd636b" >
 
   
   
@@ -810,7 +810,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Code-Verification Techniques for an Arbitrary-Depth Electromagnetic Slot Model</h1>
+  <h1>Code-Verification Techniques for Electromagnetic Surface Integral Equations</h1>
 
   
 
@@ -860,7 +860,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/uploads/freno_presentation_deep_slot_2025_07_14.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/uploads/freno_presentation_mfie_2025_03_04.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -888,7 +888,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 540px;">
   <div style="position: relative">
-    <img src="/talk/code-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model/featured_hu56109852d82246f57ae81dd6e630f540_433562_720x2500_fit_q100_h2_lanczos_3.webp" width="720" height="540" alt="" class="featured-image">
+    <img src="/talk/code-verification-techniques-for-electromagnetic-surface-integral-equations/featured_huba713fd0d4da716999cfe4787999eeea_229244_720x2500_fit_q100_h2_lanczos_3.webp" width="720" height="540" alt="" class="featured-image">
     
   </div>
 </div>
@@ -899,7 +899,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">The accurate modeling of electromagnetic penetration is an important topic in computational electromagnetics. Electromagnetic penetration occurs through intentional or inadvertent openings in an otherwise closed electromagnetic scatterer, which prevent the contents from being fully shielded from external fields. To efficiently model electromagnetic penetration, aperture or slot models can be used with surface integral equations to solve Maxwell&rsquo;s equations. A necessary step towards establishing the credibility of these models is to assess the correctness of the implementation of the underlying numerical methods through code verification. Surface integral equations and slot models yield multiple interacting sources of numerical error and other challenges, which render traditional code-verification approaches ineffective. In this paper, we provide approaches to separately measure the numerical errors arising from these different error sources for the method-of-moments implementation of the electric-field integral equation with a slot model. We demonstrate the effectiveness of these approaches for a variety of cases.</p>
+      <p class="pub-abstract">Code verification is an important step towards establishing the credibility of the results of computational physics codes by assessing whether the underlying numerical methods have been correctly implemented. The discretization of differential, integral, or integro-differential equations necessarily incurs some truncation error, and thus the approximate solutions produced from the discretized equations will incur an associated discretization error. If the solution to the problem is known, a measure of the discretization error may be evaluated directly from the approximate solution. The code may be verified by examining the rate at which the error decreases as the discretization is refined, thereby verifying the observed order of accuracy of the discretization scheme is the expected order of accuracy. Electromagnetic surface integral equations yield many code-verification challenges due to the various sources of numerical error and their possible interactions. These error sources arise from the use of basis functions to approximate the solution, quadrature to numerically integrate, and planar elements to represent curved surfaces. In this work, we provide approaches to separately measure the numerical errors arising from these different error sources using manufactured solutions. We demonstrate the effectiveness of these approaches for cases with and without coding errors.</p>
     
 
     <div class="row">
@@ -908,7 +908,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Jul 13, 2025
+            Mar 3, 2025
           </div>
         </div>
       </div>
@@ -934,15 +934,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/electromagnetic-penetration/">electromagnetic penetration</a>
+  <a class="badge badge-light" href="/tag/magnetic-field-integral-equation/">magnetic-field integral equation</a>
   
   <a class="badge badge-light" href="/tag/code-verification/">code verification</a>
   
-  <a class="badge badge-light" href="/tag/electric-field-integral-equation/">electric-field integral equation</a>
-  
   <a class="badge badge-light" href="/tag/manufactured-solutions/">manufactured solutions</a>
-  
-  <a class="badge badge-light" href="/tag/electromagnetic-slot-models/">electromagnetic slot models</a>
   
 </div>
 
@@ -963,7 +959,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model%2F&amp;text=Code-Verification&#43;Techniques&#43;for&#43;an&#43;Arbitrary-Depth&#43;Electromagnetic&#43;Slot&#43;Model" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-electromagnetic-surface-integral-equations%2F&amp;text=Code-Verification&#43;Techniques&#43;for&#43;Electromagnetic&#43;Surface&#43;Integral&#43;Equations" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -980,7 +976,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model%2F&amp;t=Code-Verification&#43;Techniques&#43;for&#43;an&#43;Arbitrary-Depth&#43;Electromagnetic&#43;Slot&#43;Model" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-electromagnetic-surface-integral-equations%2F&amp;t=Code-Verification&#43;Techniques&#43;for&#43;Electromagnetic&#43;Surface&#43;Integral&#43;Equations" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -999,7 +995,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Code-Verification%20Techniques%20for%20an%20Arbitrary-Depth%20Electromagnetic%20Slot%20Model&amp;body=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Code-Verification%20Techniques%20for%20Electromagnetic%20Surface%20Integral%20Equations&amp;body=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-electromagnetic-surface-integral-equations%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1016,7 +1012,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model%2F&amp;title=Code-Verification&#43;Techniques&#43;for&#43;an&#43;Arbitrary-Depth&#43;Electromagnetic&#43;Slot&#43;Model" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-electromagnetic-surface-integral-equations%2F&amp;title=Code-Verification&#43;Techniques&#43;for&#43;Electromagnetic&#43;Surface&#43;Integral&#43;Equations" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1033,7 +1029,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Code-Verification&#43;Techniques&#43;for&#43;an&#43;Arbitrary-Depth&#43;Electromagnetic&#43;Slot&#43;Model%20https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Code-Verification&#43;Techniques&#43;for&#43;Electromagnetic&#43;Surface&#43;Integral&#43;Equations%20https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-electromagnetic-surface-integral-equations%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1050,7 +1046,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-an-arbitrary-depth-electromagnetic-slot-model%2F&amp;title=Code-Verification&#43;Techniques&#43;for&#43;an&#43;Arbitrary-Depth&#43;Electromagnetic&#43;Slot&#43;Model" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-electromagnetic-surface-integral-equations%2F&amp;title=Code-Verification&#43;Techniques&#43;for&#43;Electromagnetic&#43;Surface&#43;Integral&#43;Equations" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
