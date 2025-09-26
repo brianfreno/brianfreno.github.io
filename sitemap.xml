@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brianfreno.github.io/talk/advances-in-verification-validation-and-uncertainty-quantification-for-computational-mechanics/</loc>
-    <lastmod>2025-09-17T13:00:00+00:00</lastmod>
+    <loc>https://brianfreno.github.io/tag/code-verification/</loc>
+    <lastmod>2025-09-25T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/code-verification/</loc>
+    <loc>https://brianfreno.github.io/tag/collisional-plasma-dynamics/</loc>
+    <lastmod>2025-09-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
+    <lastmod>2025-09-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/particle-in-cell/</loc>
+    <lastmod>2025-09-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/progress-on-code-verification-for-collisional-plasma-dynamics/</loc>
+    <lastmod>2025-09-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/event/</loc>
+    <lastmod>2025-09-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tags/</loc>
+    <lastmod>2025-09-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/advances-in-verification-validation-and-uncertainty-quantification-for-computational-mechanics/</loc>
     <lastmod>2025-09-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -14,19 +38,7 @@
     <lastmod>2025-09-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
-    <lastmod>2025-09-17T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/event/</loc>
-    <lastmod>2025-09-17T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brianfreno.github.io/tag/reduced-order-modeling/</loc>
-    <lastmod>2025-09-17T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tags/</loc>
     <lastmod>2025-09-17T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
