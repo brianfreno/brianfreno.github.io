@@ -5,7 +5,7 @@
     <link>https://brianfreno.github.io/tag/manufactured-solutions/</link>
       <atom:link href="https://brianfreno.github.io/tag/manufactured-solutions/index.xml" rel="self" type="application/rss+xml" />
     <description>manufactured solutions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Sep 2025 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Jan 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brianfreno.github.io/media/sharing.jpg</url>
       <title>manufactured solutions</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Progress on Code Verification for Collisional Plasma Dynamics</title>
-      <link>https://brianfreno.github.io/talk/progress-on-code-verification-for-collisional-plasma-dynamics/</link>
-      <pubDate>Thu, 25 Sep 2025 13:00:00 +0000</pubDate>
-      <guid>https://brianfreno.github.io/talk/progress-on-code-verification-for-collisional-plasma-dynamics/</guid>
+      <title>Code Verification for Collisional Plasma Dynamics</title>
+      <link>https://brianfreno.github.io/talk/code-verification-for-collisional-plasma-dynamics/</link>
+      <pubDate>Thu, 08 Jan 2026 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-for-collisional-plasma-dynamics/</guid>
       <description></description>
     </item>
     

@@ -13,20 +13,20 @@
     </image>
     
     <item>
+      <title>Code Verification for Collisional Plasma Dynamics</title>
+      <link>https://brianfreno.github.io/talk/code-verification-for-collisional-plasma-dynamics/</link>
+      <pubDate>Thu, 08 Jan 2026 13:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/talk/code-verification-for-collisional-plasma-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Note on the Convergence of Symmetric Triangle Quadrature Rules</title>
       <link>https://brianfreno.github.io/publication/quad_convergence/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://brianfreno.github.io/publication/quad_convergence/</guid>
       <description>&lt;hr&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Progress on Code Verification for Collisional Plasma Dynamics</title>
-      <link>https://brianfreno.github.io/talk/progress-on-code-verification-for-collisional-plasma-dynamics/</link>
-      <pubDate>Thu, 25 Sep 2025 13:00:00 +0000</pubDate>
-      <guid>https://brianfreno.github.io/talk/progress-on-code-verification-for-collisional-plasma-dynamics/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -418,7 +418,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-298315476&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-618374592&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -428,7 +428,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-298315476&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-618374592&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
