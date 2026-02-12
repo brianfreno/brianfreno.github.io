@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Code Verification for Collisional Plasma Dynamics</title>
-      <link>https://brianfreno.github.io/talk/code-verification-for-collisional-plasma-dynamics/</link>
+      <title>Code-Verification Techniques for Collisional Particle-in-Cell Simulations</title>
+      <link>https://brianfreno.github.io/talk/code-verification-techniques-for-collisional-particle-in-cell-simulations/</link>
       <pubDate>Thu, 08 Jan 2026 13:00:00 +0000</pubDate>
-      <guid>https://brianfreno.github.io/talk/code-verification-for-collisional-plasma-dynamics/</guid>
+      <guid>https://brianfreno.github.io/talk/code-verification-techniques-for-collisional-particle-in-cell-simulations/</guid>
       <description></description>
     </item>
     
@@ -418,7 +418,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-127594386&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-641875329&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -428,7 +428,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-127594386&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-641875329&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
