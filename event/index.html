@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: February 11, 2026 --><html lang="en-us" >
+<!-- Last Published: February 13, 2026 --><html lang="en-us" >
 
 
 <head>
@@ -809,13 +809,13 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/talk/code-verification-techniques-for-collisional-particle-in-cell-simulations/" >Code-Verification Techniques for Collisional Particle-in-Cell Simulations</a>
+      <a href="/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/" >Code-Verification Techniques for Particle-in-Cell Simulations with DSMC Collisions</a>
     </div>
 
     
-    <a href="/talk/code-verification-techniques-for-collisional-particle-in-cell-simulations/"  class="summary-link">
+    <a href="/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/"  class="summary-link">
       <div class="article-style">
-        Particle-in-cell methods with Monte Carlo collisions are commonly used to simulate collisional plasma dynamics, with applications ranging from hypersonic flight to semiconductor manufacturing.  Code verification of such methods is challenging due to the interaction between the spatial- and temporal-discretization errors, the statistical sampling noise, and the stochastic nature of the collision algorithm.  In this paper, we introduce our code-verification approaches to apply the method of manufactured solutions to plasma dynamics with and without collisions, and we derive expected convergence rates for the different sources of discretization and statistical error.  For the particles, we incorporate the method of manufactured solutions into the equations of motion.  We manufacture the particle distribution function and inversely query the cumulative distribution function to obtain known particle positions and velocities at each time step.  In doing so, we avoid modifying the particle weights, eliminating risks from potentially negative weights or modifications to weight-dependent collision algorithms.  For the collision algorithm, we average independent outcomes at each time step and we derive a corresponding manufactured source term for the velocity change for each particle.  By having known solutions for the particle positions and velocities, we are able to compute the error in these quantities directly instead of attempting to compute differences in distribution functions.  We demonstrate the effectiveness of our approaches in three dimensions for different couplings between the particles and field, with and without collisions, and with and without coding errors.
+        Particle-in-cell methods with stochastic collision models are commonly used to simulate collisional plasma dynamics, with applications ranging from hypersonic flight to semiconductor manufacturing.  Code verification of such methods is challenging due to the interaction between the spatial- and temporal-discretization errors, the statistical sampling noise, and the stochastic nature of the collision algorithm.  In this paper, we introduce our code-verification approaches to apply the method of manufactured solutions to plasma dynamics, and we derive expected convergence rates for the different sources of discretization and statistical error.  For the particles, we incorporate the method of manufactured solutions into the equations of motion.  We manufacture the particle distribution function and inversely query the cumulative distribution function to obtain known particle positions and velocities at each time step.  In doing so, we avoid modifying the particle weights, eliminating risks from potentially negative weights or modifications to weight-dependent collision algorithms.  For the collision algorithm, we average independent outcomes at each time step and we derive a corresponding manufactured source term for the velocity change for each particle.  By having known solutions for the particle positions and velocities, we are able to compute the error in these quantities directly instead of attempting to compute differences in distribution functions.  These approaches are equally valid for particle-in-cell simulations with Monte Carlo collisions and direct simulation Monte Carlo simulations of neutral gas flows.  We demonstrate the effectiveness of our approaches in three dimensions for different couplings between the particles and field, with and without binary elastic collisions, and with and without coding errors.
       </div>
     </a>
     
@@ -879,9 +879,9 @@
     
     
       
-      <a href="/talk/code-verification-techniques-for-collisional-particle-in-cell-simulations/" >
-        <img src="/talk/code-verification-techniques-for-collisional-particle-in-cell-simulations/featured_hu56109852d82246f57ae81dd6e630f540_389741_150x0_resize_q100_h2_lanczos_3.webp" height="113" width="150"
-            alt="Code-Verification Techniques for Collisional Particle-in-Cell Simulations" loading="lazy">
+      <a href="/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/" >
+        <img src="/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/featured_hu56109852d82246f57ae81dd6e630f540_389741_150x0_resize_q100_h2_lanczos_3.webp" height="113" width="150"
+            alt="Code-Verification Techniques for Particle-in-Cell Simulations with DSMC Collisions" loading="lazy">
       </a>
     
   </div>

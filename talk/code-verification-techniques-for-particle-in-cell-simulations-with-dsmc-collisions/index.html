@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="Though the method-of-moments implementation of the electric-field integral equation plays an important role in computational electromagnetics, it provides many code-verification challenges due to the different sources of numerical error. In this paper, we provide an approach through which we can apply the method of manufactured solutions to isolate and verify the solution-discretization error. We accomplish this by manufacturing both the surface current and the Green&#39;s function. Because the arising equations are poorly conditioned, we reformulate them as a set of constraints for an optimization problem that selects the solution closest to the manufactured solution. We demonstrate the effectiveness of this approach for cases with and without coding errors." />
+<meta name="description" content="Particle-in-cell methods with stochastic collision models are commonly used to simulate collisional plasma dynamics, with applications ranging from hypersonic flight to semiconductor manufacturing.  Code verification of such methods is challenging due to the interaction between the spatial- and temporal-discretization errors, the statistical sampling noise, and the stochastic nature of the collision algorithm.  In this paper, we introduce our code-verification approaches to apply the method of manufactured solutions to plasma dynamics, and we derive expected convergence rates for the different sources of discretization and statistical error.  For the particles, we incorporate the method of manufactured solutions into the equations of motion.  We manufacture the particle distribution function and inversely query the cumulative distribution function to obtain known particle positions and velocities at each time step.  In doing so, we avoid modifying the particle weights, eliminating risks from potentially negative weights or modifications to weight-dependent collision algorithms.  For the collision algorithm, we average independent outcomes at each time step and we derive a corresponding manufactured source term for the velocity change for each particle.  By having known solutions for the particle positions and velocities, we are able to compute the error in these quantities directly instead of attempting to compute differences in distribution functions.  These approaches are equally valid for particle-in-cell simulations with Monte Carlo collisions and direct simulation Monte Carlo simulations of neutral gas flows.  We demonstrate the effectiveness of our approaches in three dimensions for different couplings between the particles and field, with and without binary elastic collisions, and with and without coding errors." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://brianfreno.github.io/publication/efie/" />
-<link rel="canonical" href="https://brianfreno.github.io/publication/efie/" />
+<link rel="alternate" hreflang="en-us" href="https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/" />
+<link rel="canonical" href="https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/" />
 
 
 
@@ -311,20 +311,20 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://brianfreno.github.io/media/sharing.jpg" />
+<meta property="twitter:image" content="https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/featured.png" />
 <meta property="og:site_name" content="Brian A. Freno" />
-<meta property="og:url" content="https://brianfreno.github.io/publication/efie/" />
-<meta property="og:title" content="Manufactured Solutions for the Method-of-Moments Implementation of the Electric-Field Integral Equation | Brian A. Freno" />
-<meta property="og:description" content="Though the method-of-moments implementation of the electric-field integral equation plays an important role in computational electromagnetics, it provides many code-verification challenges due to the different sources of numerical error. In this paper, we provide an approach through which we can apply the method of manufactured solutions to isolate and verify the solution-discretization error. We accomplish this by manufacturing both the surface current and the Green&#39;s function. Because the arising equations are poorly conditioned, we reformulate them as a set of constraints for an optimization problem that selects the solution closest to the manufactured solution. We demonstrate the effectiveness of this approach for cases with and without coding errors." /><meta property="og:image" content="https://brianfreno.github.io/media/sharing.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/" />
+<meta property="og:title" content="Code-Verification Techniques for Particle-in-Cell Simulations with DSMC Collisions | Brian A. Freno" />
+<meta property="og:description" content="Particle-in-cell methods with stochastic collision models are commonly used to simulate collisional plasma dynamics, with applications ranging from hypersonic flight to semiconductor manufacturing.  Code verification of such methods is challenging due to the interaction between the spatial- and temporal-discretization errors, the statistical sampling noise, and the stochastic nature of the collision algorithm.  In this paper, we introduce our code-verification approaches to apply the method of manufactured solutions to plasma dynamics, and we derive expected convergence rates for the different sources of discretization and statistical error.  For the particles, we incorporate the method of manufactured solutions into the equations of motion.  We manufacture the particle distribution function and inversely query the cumulative distribution function to obtain known particle positions and velocities at each time step.  In doing so, we avoid modifying the particle weights, eliminating risks from potentially negative weights or modifications to weight-dependent collision algorithms.  For the collision algorithm, we average independent outcomes at each time step and we derive a corresponding manufactured source term for the velocity change for each particle.  By having known solutions for the particle positions and velocities, we are able to compute the error in these quantities directly instead of attempting to compute differences in distribution functions.  These approaches are equally valid for particle-in-cell simulations with Monte Carlo collisions and direct simulation Monte Carlo simulations of neutral gas flows.  We demonstrate the effectiveness of our approaches in three dimensions for different couplings between the particles and field, with and without binary elastic collisions, and with and without coding errors." /><meta property="og:image" content="https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2021-10-01T00:00:00&#43;00:00"
+      content="2026-01-08T13:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2021-10-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2026-01-08T13:00:00&#43;00:00">
   
 
 
@@ -332,12 +332,9 @@
 
 
 
+
+  
     
-
-
-
-
-
 
 
 
@@ -345,37 +342,32 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brianfreno.github.io/publication/efie/"
+    "@id": "https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/"
   },
-  "headline": "Manufactured Solutions for the Method-of-Moments Implementation of the Electric-Field Integral Equation",
+  "name": "Code-Verification Techniques for Particle-in-Cell Simulations with DSMC Collisions",
   
-  "datePublished": "2021-10-01T00:00:00Z",
-  "dateModified": "2021-10-01T00:00:00Z",
   
-  "author": {
+  "image": [
+    "https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/featured.png"
+  ],
+  
+  "startDate": "2026-01-08T13:00:00Z",
+  
+  
+  "performer": {
     "@type": "Person",
     "name": "Brian A. Freno"
   },
   
-  "publisher": {
-    "@type": "Organization",
-    "name": "Brian A. Freno",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://brianfreno.github.io/media/icon_huea353658b7b6a0c0de9a22ef9c7649ee_92171_192x192_fill_lanczos_center_3.png"
-    }
-  },
-  "description": "Though the method-of-moments implementation of the electric-field integral equation plays an important role in computational electromagnetics, it provides many code-verification challenges due to the different sources of numerical error. In this paper, we provide an approach through which we can apply the method of manufactured solutions to isolate and verify the solution-discretization error. We accomplish this by manufacturing both the surface current and the Green's function. Because the arising equations are poorly conditioned, we reformulate them as a set of constraints for an optimization problem that selects the solution closest to the manufactured solution. We demonstrate the effectiveness of this approach for cases with and without coding errors."
+  "description": "Particle-in-cell methods with stochastic collision models are commonly used to simulate collisional plasma dynamics, with applications ranging from hypersonic flight to semiconductor manufacturing.  Code verification of such methods is challenging due to the interaction between the spatial- and temporal-discretization errors, the statistical sampling noise, and the stochastic nature of the collision algorithm.  In this paper, we introduce our code-verification approaches to apply the method of manufactured solutions to plasma dynamics, and we derive expected convergence rates for the different sources of discretization and statistical error.  For the particles, we incorporate the method of manufactured solutions into the equations of motion.  We manufacture the particle distribution function and inversely query the cumulative distribution function to obtain known particle positions and velocities at each time step.  In doing so, we avoid modifying the particle weights, eliminating risks from potentially negative weights or modifications to weight-dependent collision algorithms.  For the collision algorithm, we average independent outcomes at each time step and we derive a corresponding manufactured source term for the velocity change for each particle.  By having known solutions for the particle positions and velocities, we are able to compute the error in these quantities directly instead of attempting to compute differences in distribution functions.  These approaches are equally valid for particle-in-cell simulations with Monte Carlo collisions and direct simulation Monte Carlo simulations of neutral gas flows.  We demonstrate the effectiveness of our approaches in three dimensions for different couplings between the particles and field, with and without binary elastic collisions, and with and without coding errors."
 }
 </script>
 
   
 
-  
-
 
 
 
@@ -390,7 +382,7 @@
 
 
   
-  <title>Manufactured Solutions for the Method-of-Moments Implementation of the Electric-Field Integral Equation | Brian A. Freno</title>
+  <title>Code-Verification Techniques for Particle-in-Cell Simulations with DSMC Collisions | Brian A. Freno</title>
 
   
   
@@ -410,7 +402,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f66cb46e0a84bb6c207782e4235b8d86" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="13aaa5da89713ad2f369f29848e65c5d" >
 
   
   
@@ -788,16 +780,7 @@
     
     
 
-    
-
-
-
-
-
-
-
-
-<div class="pub">
+    <div class="pub">
 
   
 
@@ -813,45 +796,32 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
-  <h1>Manufactured Solutions for the Method-of-Moments Implementation of the Electric-Field Integral Equation</h1>
+  <h1>Code-Verification Techniques for Particle-in-Cell Simulations with DSMC Collisions</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
 
   
   
-  
-  
-  <div>
-    
 
-  <span class="author-highlighted">
-      Brian A. Freno</span>, <span >
-      Neil R. Matula</span>, <span >
-      William A. Johnson</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    October, 2021
-  </span>
   
 
   
@@ -868,7 +838,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -890,16 +860,12 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2012.08681" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/uploads/freno_presentation_pic_2026_01_16.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/efie/cite.bib">
-  Cite
-</a>
 
 
 
@@ -911,18 +877,20 @@
 
 
 
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1016/j.jcp.2021.110538" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
 
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 540px;">
+  <div style="position: relative">
+    <img src="/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/featured_hu56109852d82246f57ae81dd6e630f540_389741_720x2500_fit_q100_h2_lanczos_3.webp" width="720" height="540" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -930,47 +898,33 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Though the method-of-moments implementation of the electric-field integral equation plays an important role in computational electromagnetics, it provides many code-verification challenges due to the different sources of numerical error. In this paper, we provide an approach through which we can apply the method of manufactured solutions to isolate and verify the solution-discretization error. We accomplish this by manufacturing both the surface current and the Green&rsquo;s function. Because the arising equations are poorly conditioned, we reformulate them as a set of constraints for an optimization problem that selects the solution closest to the manufactured solution. We demonstrate the effectiveness of this approach for cases with and without coding errors.</p>
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Particle-in-cell methods with stochastic collision models are commonly used to simulate collisional plasma dynamics, with applications ranging from hypersonic flight to semiconductor manufacturing.  Code verification of such methods is challenging due to the interaction between the spatial- and temporal-discretization errors, the statistical sampling noise, and the stochastic nature of the collision algorithm.  In this paper, we introduce our code-verification approaches to apply the method of manufactured solutions to plasma dynamics, and we derive expected convergence rates for the different sources of discretization and statistical error.  For the particles, we incorporate the method of manufactured solutions into the equations of motion.  We manufacture the particle distribution function and inversely query the cumulative distribution function to obtain known particle positions and velocities at each time step.  In doing so, we avoid modifying the particle weights, eliminating risks from potentially negative weights or modifications to weight-dependent collision algorithms.  For the collision algorithm, we average independent outcomes at each time step and we derive a corresponding manufactured source term for the velocity change for each particle.  By having known solutions for the particle positions and velocities, we are able to compute the error in these quantities directly instead of attempting to compute differences in distribution functions.  These approaches are equally valid for particle-in-cell simulations with Monte Carlo collisions and direct simulation Monte Carlo simulations of neutral gas flows.  We demonstrate the effectiveness of our approaches in three dimensions for different couplings between the particles and field, with and without binary elastic collisions, and with and without coding errors.</p>
     
 
-    
-    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#2">
-              Journal article
-            </a>
+            Jan 8, 2026
           </div>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
-    
 
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Journal of Computational Physics</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
+
     
 
     <div class="space-below"></div>
 
-    <div class="article-style"><hr>
-</div>
+    <div class="article-style">
+      
+    </div>
 
     
 
@@ -980,7 +934,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/electric-field-integral-equation/">electric-field integral equation</a>
+  <a class="badge badge-light" href="/tag/collisional-plasma-dynamics/">collisional plasma dynamics</a>
+  
+  <a class="badge badge-light" href="/tag/particle-in-cell/">particle in cell</a>
+  
+  <a class="badge badge-light" href="/tag/monte-carlo-collisions/">Monte Carlo collisions</a>
   
   <a class="badge badge-light" href="/tag/code-verification/">code verification</a>
   
@@ -1005,7 +963,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fbrianfreno.github.io%2Fpublication%2Fefie%2F&amp;text=Manufactured&#43;Solutions&#43;for&#43;the&#43;Method-of-Moments&#43;Implementation&#43;of&#43;the&#43;Electric-Field&#43;Integral&#43;Equation" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions%2F&amp;text=Code-Verification&#43;Techniques&#43;for&#43;Particle-in-Cell&#43;Simulations&#43;with&#43;DSMC&#43;Collisions" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1022,7 +980,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbrianfreno.github.io%2Fpublication%2Fefie%2F&amp;t=Manufactured&#43;Solutions&#43;for&#43;the&#43;Method-of-Moments&#43;Implementation&#43;of&#43;the&#43;Electric-Field&#43;Integral&#43;Equation" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions%2F&amp;t=Code-Verification&#43;Techniques&#43;for&#43;Particle-in-Cell&#43;Simulations&#43;with&#43;DSMC&#43;Collisions" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1041,7 +999,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Manufactured%20Solutions%20for%20the%20Method-of-Moments%20Implementation%20of%20the%20Electric-Field%20Integral%20Equation&amp;body=https%3A%2F%2Fbrianfreno.github.io%2Fpublication%2Fefie%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Code-Verification%20Techniques%20for%20Particle-in-Cell%20Simulations%20with%20DSMC%20Collisions&amp;body=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1058,7 +1016,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrianfreno.github.io%2Fpublication%2Fefie%2F&amp;title=Manufactured&#43;Solutions&#43;for&#43;the&#43;Method-of-Moments&#43;Implementation&#43;of&#43;the&#43;Electric-Field&#43;Integral&#43;Equation" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions%2F&amp;title=Code-Verification&#43;Techniques&#43;for&#43;Particle-in-Cell&#43;Simulations&#43;with&#43;DSMC&#43;Collisions" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1075,7 +1033,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Manufactured&#43;Solutions&#43;for&#43;the&#43;Method-of-Moments&#43;Implementation&#43;of&#43;the&#43;Electric-Field&#43;Integral&#43;Equation%20https%3A%2F%2Fbrianfreno.github.io%2Fpublication%2Fefie%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Code-Verification&#43;Techniques&#43;for&#43;Particle-in-Cell&#43;Simulations&#43;with&#43;DSMC&#43;Collisions%20https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1092,7 +1050,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fbrianfreno.github.io%2Fpublication%2Fefie%2F&amp;title=Manufactured&#43;Solutions&#43;for&#43;the&#43;Method-of-Moments&#43;Implementation&#43;of&#43;the&#43;Electric-Field&#43;Integral&#43;Equation" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fbrianfreno.github.io%2Ftalk%2Fcode-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions%2F&amp;title=Code-Verification&#43;Techniques&#43;for&#43;Particle-in-Cell&#43;Simulations&#43;with&#43;DSMC&#43;Collisions" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1112,7 +1070,6 @@
 
   
   
-    
 
 
 
@@ -1205,19 +1162,6 @@
   </div>
 
 
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
 
 
 
