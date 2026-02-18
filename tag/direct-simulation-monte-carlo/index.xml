@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>direct simulation Monte Carlo | Brian A. Freno</title>
+    <link>https://brianfreno.github.io/tag/direct-simulation-monte-carlo/</link>
+      <atom:link href="https://brianfreno.github.io/tag/direct-simulation-monte-carlo/index.xml" rel="self" type="application/rss+xml" />
+    <description>direct simulation Monte Carlo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brianfreno.github.io/media/sharing.jpg</url>
+      <title>direct simulation Monte Carlo</title>
+      <link>https://brianfreno.github.io/tag/direct-simulation-monte-carlo/</link>
+    </image>
+    
+    <item>
+      <title>Code-Verification Techniques for Particle-in-Cell Simulations with Direct Simulation Monte Carlo Collisions</title>
+      <link>https://brianfreno.github.io/publication/pic/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://brianfreno.github.io/publication/pic/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
