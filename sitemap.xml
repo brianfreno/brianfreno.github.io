@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://brianfreno.github.io/tag/code-verification/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/collisional-plasma-dynamics/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/monte-carlo-collisions/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tag/particle-in-cell/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/event/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://brianfreno.github.io/tags/</loc>
+    <lastmod>2026-05-05T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://brianfreno.github.io/publication-type/2/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/code-verification/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brianfreno.github.io/publication/pic/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/collisional-plasma-dynamics/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,32 +50,8 @@
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://brianfreno.github.io/tag/manufactured-solutions/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/monte-carlo-collisions/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tag/particle-in-cell/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://brianfreno.github.io/publication_types/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/tags/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/talk/code-verification-techniques-for-particle-in-cell-simulations-with-dsmc-collisions/</loc>
-    <lastmod>2026-01-08T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://brianfreno.github.io/event/</loc>
-    <lastmod>2026-01-08T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://brianfreno.github.io/publication/quad_convergence/</loc>
